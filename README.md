@@ -1,0 +1,73 @@
+# 🌐 Personal Portfolio Website
+
+## 📖 Project Overview
+
+This is a single-page responsive portfolio website created as part of a lab assignment. The website showcases personal information, projects, skills, and contact details. It is built using **HTML**, and **CSS**.
+
+- URL Link to website portfolio: [https://jousei69.github.io/Lab-Assignment---WEEK06-HCI-LAB/]
+- URL Link to website design: [https://www.figma.com/design/KHcelwl30jpkAVoKSezzj5/Untitled?node-id=0-1&t=HKVnglGVFfXp5iyR-1]
+
+## 🎯 Purpose
+
+The goal of this project is to:
+
+- Practice responsive web design techniques
+- Learn how to structure and style a webpage
+- Showcase personal or sample projects in a professional format
+
+## 👥 Target Audience
+
+This portfolio is designed for:
+
+- [✅] Potential employers or recruiters
+
+
+## 🧱 Technologies Used
+
+- HTML
+- CSS
+
+## 📐 Layout & Sections
+
+The website includes the following sections:
+
+- **Header** – Name and tagline
+- **About Me** – Short bio and photo
+- **Projects** – List of projects with descriptions and links
+- **Experience** – Experience in network engineering
+- **Contact** – social media, or contact form
+- **Footer** – Copyright and links
+
+## 📱 Responsiveness
+
+The site is optimized for:
+
+- Desktop
+- Tablet
+- Mobile
+
+> Responsive design is achieved using media queries and flexible layouts.
+
+## 🧪 How to Run Locally
+
+1. Open your code editor (e.g., Visual Studio Code, etc.).
+2. In your code editor, open the terminal.
+3. Clone the repository:
+   ```bash
+   git clone https: (https://github.com/Jousei69/Lab-Assignment---WEEK06-HCI-LAB)
+   ```
+4. Open index.html in your browser, or run the website locally using the Live Server Extension.
+
+## 📂 Folder Structure
+
+```bash
+portfolio-website/
+│
+├── index.html
+├── style.css
+├── Assets/
+└── README.md
+```
+
+## 📸 Screenshots
+[https://drive.google.com/drive/folders/100AJ4HaNZtUfMqILj2Qw-viHN9SfRobH?usp=sharing]
