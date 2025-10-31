@@ -1,3 +1,4 @@
+/* General Reset */
 * {
   margin: 0;
   padding: 0;
@@ -11,12 +12,14 @@ body {
   line-height: 1.6;
 }
 
+/* Container */
 .container {
   width: 90%;
   max-width: 1000px;
   margin: 0 auto;
 }
 
+/* Header */
 .site-header {
   background: #333;
   color: #fff;
@@ -61,6 +64,7 @@ body {
   border: 3px solid #fff;
 }
 
+/* Card Sections */
 .card {
   background: #fff;
   padding: 1.5rem;
@@ -69,6 +73,7 @@ body {
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
 }
 
+/* Projects */
 .projects-list {
   list-style: none;
 }
@@ -87,6 +92,7 @@ body {
   text-decoration: underline;
 }
 
+/* Skills */
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -101,6 +107,7 @@ body {
   border-radius: 5px;
 }
 
+/* Footer */
 .site-footer {
   background: #333;
   color: #fff;
